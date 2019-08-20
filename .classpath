@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="zxing.jar"/>
+	<classpathentry exported="true" kind="var" path="JDBC"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/hp/Documents/zxing-core-1.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/hp/Documents/zxing-j2se-1.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/hp/Desktop/nn/mysql-connector-java-5.1.47.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/hp/Desktop/javase-2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/hp/Desktop/core-2.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
